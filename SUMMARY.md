@@ -1,7 +1,7 @@
 # Summary
 
 * [雨坂先生の復習用資料　表紙](https://teacheramesaka.github.io/studyfiles/)
-* [高校公民経済分野　表紙](README.md)
+* [中学復習英語講座　表紙](README.md)
 * [動画及び一覧](LIST.md)
 * [YouTube再生リスト](https://www.youtube.com/watch?v=dlfNdYMdIIw&list=PLOdKiaJAYzETlnO0S7lUjFSVZjPfPuoZi)
 
