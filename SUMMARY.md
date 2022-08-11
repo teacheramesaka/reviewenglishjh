@@ -2,7 +2,7 @@
 
 * [雨坂先生の復習用資料　表紙](https://teacheramesaka.github.io/studyfiles/)
 * [中学復習英語講座　表紙](README.md)
-* [動画及び一覧](LIST.md)
+* [動画及び資料一覧](LIST.md)
 * [YouTube再生リスト](https://www.youtube.com/watch?v=dlfNdYMdIIw&list=PLOdKiaJAYzETlnO0S7lUjFSVZjPfPuoZi)
 
 -----
