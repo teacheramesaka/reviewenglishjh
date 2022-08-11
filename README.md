@@ -4,7 +4,7 @@
 
 ・文系教員VTuber[雨坂先生](https://twitter.com/teacheramesaka)の、授業の復習用資料を掲載しています  
 ・授業を掲載しているyoutubeチャンネルは[こちら](https://www.youtube.com/channel/UCrht6vxr8hPElHXKxjyJEZA)  
-・各回の資料については左の一覧を見るか、画面上部の三本線をクリックするか、[こちら](LIST.md)で確認を
+・各回の資料については左の一覧を見るか、画面上部の四本線をクリックするか、[こちら](LIST.md)で確認を  
 ・授業動画の一覧は[こちら](LIST.md)
 
 ## 本講座の対象者
